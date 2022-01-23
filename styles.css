@@ -1,0 +1,51 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+.first{
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  position: relative;
+}
+.img{
+  position: absolute;
+  left: 350px;
+  top: 300px;
+}
+h1{
+  font-family: sacramento;
+  font-size: 5.62rem;
+  margin: 50px auto 0 auto;
+  padding-top: 20px;
+  color: #66BFBF;
+}
+h2{
+  font-family: Montserrat;
+  font-size: 1.87rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+.im{
+  position: absolute;
+  top: 50px;
+  right: 350px;
+}
+.tom{
+  height: 300px;
+  width: 300px;
+}
+.sp{
+  text-decoration: underline;
+}
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+.jer{
+  position: absolute;
+  right: 250px;
+  top: 250px;
+}
